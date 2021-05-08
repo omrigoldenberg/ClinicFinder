@@ -1,0 +1,96 @@
+pharmacies/hospitals
+
+3535 mount read blvd, rochester, ny, 14616
+1490 lake avenue, rochester, ny, 14615
+3701 mt. read boulevard, rochester, ny, 14616
+3800 dewey ave, greece, ny, 14616
+525 titus avenue, rochester, ny, 14617
+605 titus avenue, rochester, ny, 14617
+2833 ridge road west, rochester, ny, 14626
+720 e ridge rd, rochester, ny, 14621
+1000 north clinton avenue, rochester, ny, 14621
+1490 hudson ave, rochester, ny, 14621
+437 lyell ave, rochester, ny, 14606
+4433 dewey avenue, rochester, ny, 14616
+2301 lyell avenue, rochester, ny, 14606
+430 spencerport rd, rochester, ny, 14606
+101 pattonwood drive, rochester, ny, 14617
+100 elmridge center dr, greece, ny, 14626
+535 portland avenue, rochester, ny, 14621
+792 w main st, rochester, ny, 14611
+3177 latta road, rochester, ny, 14612
+665 long pond rd, rochester, ny, 14612
+1792 north goodman street, rochester, ny, 14609
+2100 e ridge rd, irondequoit, ny, 14622
+2200 ridge road east, rochester, ny, 14622
+670 thurston rd, rochester, ny, 14619
+565 monroe avenue, rochester, ny, 14607
+1433 culver road, rochester, ny, 14609
+1829 chili ave, rochester, ny, 14624
+2150 chili ave, rochester, ny, 14624
+200 wegmans market st, rochester, ny, 14624
+1650 elmwood ave, rochester, ny, 14620
+1750 east avenue, rochester, ny, 14610
+1575 mt hope ave, rochester, ny, 14620
+335 westfall road, rochester, ny, 14620
+1955 empire boulevard, webster, ny, 14580
+2841 nichols st, spencerport, ny, 14559         ?
+1990 brandt point drive, webster, ny, 14580     ?
+3175 chili avenue, rochester, ny, 14624
+650 hylan drive, rochester, ny, 14623
+3122 monroe ave, rochester, ny, 14618
+1200 marketplace dr, rochester, ny, 14623
+3195 monroe avenue, rochester, ny, 14618
+1567 penfield road, rochester, ny, 14625
+1659 penfield rd, rochester, ny, 14625
+4366 buffalo rd, north chili, ny, 14514
+4374 buffalo road, north chili, ny, 14514
+2665 e henrietta rd, henrietta, ny, 14467
+745 calkins road, rochester, ny, 14623
+1125 ridge rd, webster, ny, 14580
+900 holt road, webster, ny, 14580
+2157 penfield road, penfield, ny, 14526
+2172 penfield rd, penfield, ny, 14526
+635 pittsford victor rd, pittsford, ny, 14534
+6265 brockport spencerport rd, brockport, ny, 14420
+6600 pittsford-palmyra road, fairport, ny, 14450
+6707 pittsford palmyra rd, fairport, ny, 14450
+6720 pittsford-palmyra road, fairport, ny, 14450
+73 north main street, brockport, ny, 14420
+6660 4th section rd, brockport, ny, 14420
+135 west main street, honeoye falls, ny, 14472
+1431 mt hope ave, rochester, ny, 14620
+170 science pkwy, rochester, ny, 14620
+111 westfall rd #154, rochester, ny, 14620
+259 monroe ave 1st floor, rochester, ny, 14607
+685 park ave, rochester, ny, 14607
+2100 monroe ave, rochester, ny, 14618
+2325 marketplace dr, rochester, ny, 14623
+2709 chili ave, rochester, ny, 14624
+185 winton rd north, rochester, ny, 14610
+1455 lake avenue corner, parkway, rochester, ny, 14615
+2580 e henrietta rd, rochester, ny, 14623
+525 spencerport rd, rochester, ny, 14606
+1425 portland ave, rochester, ny, 14621
+500 medley centre pkwy, rochester, ny, 14622
+1555 long pond rd, rochester, ny, 14626
+600 greece ridge center dr, rochester, ny, 14626
+3181 chili ave, rochester, ny, 14624
+201 scottsville - west henrietta rd #1, west henrietta, ny, 14586
+42 nichols st, spencerport, ny, 14559
+6510 brockport spencerport rd, brockport, ny, 14420
+
+
+
+county government/community
+123 e. main st., rochester ny 14604
+145 paul rd., rochester ny 14624
+40 allen st, bldg 700 central school dr, brockport, ny 14420
+4322 buffalo rd, north chili, ny 14514
+385 scottsville mumford rd, scottsville ny 14546
+817 e. main st., rochester, ny 14605
+121 driving park ave., rochester, ny 14613
+530 webster ave., rochester, ny 14609
+41 backus st., rochester, ny 14608
+1345 st. paul st., rochester, ny
+2695 e henrietta rd, henrietta, ny 14467
